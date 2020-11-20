@@ -1,2 +1,5 @@
 # DataCollector
-A Python Script For Understanding GUI (tikinter) And APIS.  A Class Python Project For Understanding GUI AND APIS It is very useful for good understanding.  By - Sarthak Saxena
+# Python
+A Python Script For Understanding GUI And APIS.
+It is very useful for good understanding of GUI And APIS.
+# By - Sarthak Saxena
