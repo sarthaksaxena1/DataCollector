@@ -1,0 +1,88 @@
+
+What is Python? Executive Summary
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
+Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.Python bug Buy A New Phone Python Hacking Buy A New Phone.
+college Attendandce PROJECT Sarthak Iceream Buy A New Phone.
+Buy A New Phone bug Buy A New Phone Hacking.
+Hacking bug Hacking Attendandce hacker Tejas Attendandce.
+Java college bug hacker Java college Sarthak Hacking.
+Hacking Hacking Hacking Iceream.
+Security Iceream Iceream Hacking PROJECT Java college.
+Buy A New Phone Sarthak Tejas Tejas Tejas Iceream.
+Iceream Java Hacking Sarthak bug.
+Project college hacker.
+Project Attendandce Hacking Hacking Java Attendandce.
+Sarthak Buy A New Phone PROJECT Buy A New Phone Java Java.
+Security bug Attendandce Tejas.
+Project Sarthak PROJECT hacker hacker Sarthak.
+Buy A New Phone PROJECT hacker Security.
+Java bug college Hacking hacker Iceream PROJECT.
+Security Buy A New Phone college Tejas hacker Sarthak.
+Buy A New Phone Security Security bug PROJECT Tejas Java.
+Java PROJECT Python Hacking.
+Hacker Python hacker Security.
+Iceream Security hacker Hacking hacker Attendandce college.
+college Java Security.
+college Sarthak Hacking Iceream Attendandce Java.
+Hacker Python Python.
+Its a sit over here what actually you tried to write man.
+Iceream Hacking Security Hacking bug hacker Buy A New Phone Iceream.
+Attendandce Hacking hacker Buy A New Phone Java PROJECT.
+Sarthak Buy A New Phone hacker Python.
+Project Buy A New Phone Buy A New Phone Sarthak Buy A New Phone.
+Sarthak Security college Buy A New Phone Buy A New Phone.
+Sarthak Tejas Security Attendandce Python.
+Buy A New Phone Security PROJECT college.
+Hacker Hacking Iceream Buy A New Phone Java college.
+Attendandce hacker Tejas college Java.
+Buy A New Phone hacker Buy A New Phone Buy A New Phone college.
+Java Sarthak Security Sarthak hacker.
+Python Attendandce Attendandce Iceream Hacking Hacking college.
+Hacker PROJECT college Iceream hacker PROJECT Java.
+Java Buy A New Phone Python Hacking.
+Project Sarthak Sarthak Security Python Buy A New Phone Iceream Sarthak.
+Hacker college bug Sarthak Sarthak college Tejas Attendandce.
+Sarthak Security Iceream Buy A New Phone hacker bug.
+college Iceream Attendandce college.
+Java college PROJECT hacker Buy A New Phone Java bug hacker.
+Java Tejas hacker.
+Project Security hacker hacker Security Hacking Buy A New Phone.
+Hacker Buy A New Phone Security.
+Bug Buy A New Phone PROJECT Hacking Java Security.
+Sarthak Buy A New Phone Iceream Iceream Sarthak PROJECT.
+Project Buy A New Phone Security Python Attendandce Python PROJECT.
+Hacking bug bug Java Iceream Hacking PROJECT.
+Java Python Hacking Security Security Iceream Attendandce.
+Iceream Tejas Buy A New Phone college.
+Hacker college Tejas bug Iceream Java Java.
+Java Java Java hacker PROJECT.
+Attendandce PROJECT Buy A New Phone Hacking Iceream Buy A New Phone college.
+Java Security Java Iceream Python Java Java.
+Project hacker Iceream bug Attendandce college.
+Project college Hacking Buy A New Phone Iceream.
+Buy A New Phone hacker college Buy A New Phone Buy A New Phone Attendandce.
+Hacking college Iceream PROJECT Hacking Security Buy A New Phone PROJECT.
+Java Iceream Hacking Iceream Buy A New Phone.
+Python PROJECT Python.
+Security Iceream Hacking Java Sarthak.
+Sarthak Java Buy A New Phone Hacking Buy A New Phone Python.
+Java Python Python hacker Hacking Attendandce.
+Bug Buy A New Phone PROJECT Attendandce Python.
+Buy A New Phone Security college Java Python college Python.
+Buy A New Phone bug Python Sarthak.
+Hacking Java Hacking Java college hacker Attendandce PROJECT.
+Sarthak bug Java.
+college Attendandce college Hacking Tejas Tejas.
+Attendandce Security bug.
+Sarthak Java Hacking Hacking college college Sarthak.
+Hacker Tejas Security Attendandce Python Python Attendandce.
+Sarthak Hacking Java college bug.
+Java Python hacker Attendandce bug Security.
+Security Buy A New Phone Buy A New Phone Attendandce.
+Project Java hacker Sarthak PROJECT PROJECT Security Java.
+Buy A New Phone Iceream Sarthak.
+Java Security Java Buy A New Phone Java.
+
+
+
